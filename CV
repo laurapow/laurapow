@@ -7,10 +7,10 @@
     <title>Laura Powell CV</title>
 </head>
 <body>
-   <div> <h1>Laura Powell CV</h1>
+   <div> <h1><u>Laura Powell CV</u></h1>
     <hr>
     <p>
-    Aspiring professional <strong>Web Developer</strong>
+    <em> Aspiring professional <strong>Web Developer</strong></em>
     </p>
     <br>
     <img src="img/Laura Profile Pic.jpeg" alt="Laura Crouch Profile Image" width="160" height="180">
