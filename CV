@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laura Powell CV</title>
+</head>
+<body>
+   <div> <h1>Laura Powell CV</h1>
+    <hr>
+    <p>
+    Aspiring professional <strong>Web Developer</strong>
+    </p>
+    <br>
+    <img src="img/Laura Profile Pic.jpeg" alt="Laura Crouch Profile Image" width="160" height="180">
+    <hr>
+</div>
+    <div>
+    <table>
+        <tr>
+            <th><h2>Technical Skills</h2></th>
+        </tr>
+        <tbody>
+        <tr>
+            <td>HTML</td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+        </tr>
+        <tr>
+            <td>SQL Queries</td>
+        </tr>
+        </tbody>
+    </table>
+
+<hr>
+        </div>
+
+        <div>
+    <h2>Experience</h2>
+    <h3>National World</h3>
+    <ul>
+    <li><h4>Sales Optimisation Specialist</h4>
+    May 2022 - Present</li>
+   <li> <h4>Sales Manager</h4>
+    March 2020 - May 2022</li>
+    <li><h4>Team Leader</h4>
+    July 2019 - March 2020</li>
+   <li> <h4>Media Sales Executive</h4>
+    March 2018 - July 2019</li>
+    </ul>
+    <h3>Quidco</h3>
+    <ul>
+        <li><h4>Team Leader</h4>
+        June 2015 - March 2018</li>
+    </ul>
+    <h3>Bedazzled Cupcakes</h3>
+    <ul>
+        <li><h4>Sales Representative</h4>
+        Jan 2006 - June 2015</li>
+    </ul>
+    <hr>
+    </div>
+    <div>
+        <h2>Education</h2>
+        <h3>Thomas Rotherham College</h3>
+        <ul>
+        <li><h4>A-Levels</h4>
+        2004-2006</li>
+        </ul>
+        <h3>Wickersley School</h3>
+        <ul>
+            <li><h4>GCSE's</h4>
+            1999-2004</li>
+        </ul>
+        <hr>
+        </div>
+        <div>
+    <h2>Links</h2>
+    <a href="https://www.linkedin.com/in/laura-p-07210115a/">LinkedIn Profile</a>
+    <br>
+    <a href="https://github.com/laurapow">GitHub Profile</a>
+    <br>
+    <a href="https://www.instagram.com/laurapowcode/">Instagram Profile</a>
+    <br>
+    <hr>
+    </div>
+
+    <div>
+        <h2>Personal Interests</h2>
+        In my personal time, I enjoy Camping, Gaming and Crafts
+        <hr>
+        </div>
+
+
+
+
+</body>
+</html>
